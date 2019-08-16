@@ -1,0 +1,28 @@
+{
+  "name": "mern-stack",
+  "version": "1.0.0",
+  "description": "this is another mern example\r ```\r Aca va codigo\r ```",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmartinez/mern-stack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmartinez/mern-stack/issues"
+  },
+  "homepage": "https://github.com/pmartinez/mern-stack#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
